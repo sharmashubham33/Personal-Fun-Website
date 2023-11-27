@@ -25,7 +25,7 @@ yesBtn.addEventListener("click", () => {
     const sound = new Audio("omgwow.mp3");
     sound.play();
 
-    question.innerHTML = "Yay, see you on the 5th March!";
+    question.innerHTML = "Thank you, I love you so much!";
     gif.src = "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
 
     for (let i = 0; i < 30; i++) {
